@@ -19,11 +19,11 @@ export const useAppointmentStore = create(
           appointments: [...state.appointments, appointment],
         }));
       },
-      isAlreadyBooked: (doctorId, time) => {
+      isAlreadyBooked: (doctorId: string, time: string) => {
         return get().appointments.some(
-          (appt) => appt?.id === doctorId && appt.time === time
+          (appt) => appt.id.toString() === doctorId && appt.time === time
         );
-      },
+      }
     }),
     {
       name: 'appointment-storage',

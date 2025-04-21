@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🖥️ Doctor Booking App built using <a href="https://reactjs.org/">React.js</a> with <a href="https://nextjs.org/">Next.js</a> and styled using <a href="https://tailwindcss.com/">Tailwind CSS</a>.
+  🖥️ Doctor Booking App built using <a href="https://reactjs.org/">React.js</a> with <a href="https://nextjs.org/">Next.js</a>  , written in <a href="https://www.typescriptlang.org/">TypeScript</a>. and styled using <a href="https://tailwindcss.com/">Tailwind CSS</a>.
 </p>
 
 ## This is a Doctor Booking App built using React.js with Next.js, styled with Tailwind CSS, and managed with Zustand.
