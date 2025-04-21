@@ -113,7 +113,7 @@ const ButtonIcon: FC<Omit<ButtonProps, 'startIcon' | 'endIcon'>> = ({
 )
 
 const colorScheme = {
-  primary: 'border-primary-6 bg-primary-6 hover:bg-primary-5',
+  primary: 'border-primary-6 bg-primary-6 hover:bg-secondary-4 ',
   secondary: 'border-secondary-6 bg-secondary-6 hover:bg-secondary-5',
   tertiary: 'border-tertiary-6 bg-tertiary-6 hover:bg-tertiary-5',
   info: 'border-info-6 bg-info-6 hover:bg-info-5',
