@@ -10,7 +10,7 @@
 
 It uses [Zustand](https://github.com/pmndrs/zustand) for state management, [React Hot Toast](https://react-hot-toast.com/) for notifications, and [Radix UI](https://www.radix-ui.com/) for accessible UI components.
 
-### You can view it here:   <a href="https://doctor-bokking-mu.vercel.app/"></a>. 
+### You can view it here:   <a href="https://doctor-bokking-mu.vercel.app/">Doctor Booking App</a>. 
 
 ## You can:
 
