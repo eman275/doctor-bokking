@@ -11,7 +11,7 @@ import { useAppointmentStore } from "../stores/appointmentStore";
 export default function DoctorBookingUI() {
   const [selectedDoctor, setSelectedDoctor] = useState<DoctorType | null>(null);
   const [showModal, setShowModal] = useState(false);
-  const [alreadyBooked, setAlreadyBooked] = useState(false);
+  const [, setAlreadyBooked] = useState(false);
  
 
   const appointments = useAppointmentStore((state) => state.appointments);
